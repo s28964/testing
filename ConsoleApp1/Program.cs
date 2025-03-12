@@ -8,6 +8,7 @@
         int max = CalculatingMax(numbers);
         Console.WriteLine($"Średnia: {average}");
         Console.WriteLine($"Max: {max}");
+        Console.WriteLine("test");
     }
 
     static double CalculatingAverage(int[] numbers)
